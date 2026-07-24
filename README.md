@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hola, soy Antonella Baez 👋
+BI Developer con 7+ años de experiencia en fintech, banca y tecnología. En UALA incrementé la tasa de aprobación de pagos del 40% al 70% optimizando patrones de declinación con BigQuery y Looker Studio. 
+En Conekta desarrollé dashboards ejecutivos que se convirtieron en la base de decisión mensual del liderazgo, eliminando análisis ad-hoc y retrabajo.
 <!--
 **antobaez850/antobaez850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
