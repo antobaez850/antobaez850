@@ -9,6 +9,7 @@ indicadores clave de desempeño (KPIs).
 - Construyo pipelines ETL y automatizaciones que eliminan horas manuales operativas.
 - Traduzco necesidades de negocio en métricas accionables alineadas a OKRs.
 - Desarrollo en Tableau, Power BI y Looker Studio con foco en adopción por el usuario.
+- Análisis exploratorio para detección de insights.
 
 
 📌 Abierta a oportunidades remotas o híbridas en Argentina y LATAM.
