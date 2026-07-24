@@ -15,7 +15,7 @@ indicadores clave de desempeño (KPIs).
 📌 Abierta a oportunidades remotas o híbridas en Argentina y LATAM.
 <hr/>
 
-## Stack Tecnológico
+## 👩‍💻 Stack Tecnológico
 <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 20px auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); overflow: hidden; border: 1px solid #cbd5e1;">
     <table style="width: 100%; border-collapse: separate; border-spacing: 0; text-align: left;">
         <thead>
@@ -76,7 +76,11 @@ indicadores clave de desempeño (KPIs).
 
 <hr/>
 
-## Proyectos Destacados
+## ⭐ Proyectos Destacados
+📊 Dashboard Rechazos
+
+🔗 Repositorio
+https://github.com/antobaez850/Dashboard_rechazos
 
 <!--
 **antobaez850/antobaez850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
