@@ -78,15 +78,22 @@ indicadores clave de desempeño (KPIs).
 
 ## ⭐ Proyectos Destacados
 
-📊 Dashboard Rechazos (Tableau)
+### 📊 Dashboards
+
+ <b> Dashboard Rechazos (Tableau) </b>
 
 🔗 Repositorio
 https://github.com/antobaez850/Dashboard_rechazos
 
-📈 Dashboard Sales (Power BI)
+ <b> Dashboard Sales (Power BI) </b>
 
 🔗 Repositorio
 https://github.com/antobaez850/Project-Sales
+
+<hr/>
+
+### 🐍 Análisis Exploratorio
+
 
 <!--
 **antobaez850/antobaez850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
